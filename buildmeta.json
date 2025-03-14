@@ -34674,7 +34674,7 @@
       "format": "esm"
     },
     "src/index.ts": {
-      "bytes": 21071,
+      "bytes": 21077,
       "imports": [
         {
           "path": "lit-html",
@@ -34909,7 +34909,7 @@
       "cssBundle": "dist/index.esm.css",
       "inputs": {
         "src/index.ts": {
-          "bytesInOutput": 13154
+          "bytesInOutput": 13172
         },
         "node_modules/@broxus/js-core/dist/esm/AbstractStore.js": {
           "bytesInOutput": 1447
@@ -34951,7 +34951,7 @@
           "bytesInOutput": 2590
         },
         "node_modules/@broxus/tvm-connect/lib/esm/connectors/VenomWallet.js": {
-          "bytesInOutput": 2606
+          "bytesInOutput": 2602
         },
         "node_modules/@broxus/tvm-connect/lib/esm/hooks/useRecentConnectionMeta.js": {
           "bytesInOutput": 408
@@ -34993,7 +34993,7 @@
           "bytesInOutput": 362
         }
       },
-      "bytes": 54487
+      "bytes": 54501
     },
     "dist/index.esm.css": {
       "imports": [
